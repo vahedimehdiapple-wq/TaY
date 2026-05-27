@@ -1,0 +1,2 @@
+vless://89e808ca-ac12-4e05-a646-61024931c213@37.120.191.200:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=e7e9fdcb-9b1d-40c1-b79c-439d55ac44bf.ensf.top&path=%2Fapi%2Fv1%2Fuuid%2F98c0df5e-213f-41cb-82ab-b3b4bca54d0b&security=tls&sni=e7e9fdcb-9b1d-40c1-b79c-439d55ac44bf.ensf.top&type=ws#1
+vless://30980fc4-8789-42df-80d1-0c8e5cd26881@37.120.191.200:443?encryption=none&host=cdn.veilvpn.fans&path=%2Fvpnhu&security=tls&sni=cdn.veilvpn.fans&type=httpupgrade#2
