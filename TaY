@@ -5,7 +5,8 @@ vless://14c44521-e28f-4561-a12c-337d8cc44d87@37.120.191.200:443?allowInsecure=1&
 vless://9863e1a5-f83b-4608-bed8-122d0a54b6d5@37.120.191.200:443?allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=interim.yhbj.store&mode=auto&path=%2FKtBrKmKh&security=tls&sni=interim.yhbj.store&type=xhttp#15
 trojan://humanity@37.120.191.200:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#16
 trojan://humanity@37.120.191.200:443?allowInsecure=1&path=%2Fassignment&sni=www.multiplydose.com&type=ws#17
-
+vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?encryption=none&host=jp.aniua.qzz.io&path=%2FChannel----%40VPNCUSTOMIZE&security=tls&sni=jp.aniua.qzz.io&type=ws#18
+vless://942469ee-7f8e-443d-bfd2-4f8b1faa5970@199.232.57.91:80?ed=2056&eh=Sec-WebSocket-Protocol&encryption=none&host=Api.nHl14.iR.&path=%2F&security=none&type=ws#19
 
 
 
